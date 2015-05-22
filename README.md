@@ -1,4 +1,4 @@
-Want to see a demo of GSAP on React Native? Check out [react-native-gsap-demo](https://github.com/skevy/react-native-gsap-demo)!
+#### Want to see a demo of GSAP on React Native? Check out [react-native-gsap-demo](https://github.com/skevy/react-native-gsap-demo)!
 
 # GSAP (GreenSock Animation Platform)
 
